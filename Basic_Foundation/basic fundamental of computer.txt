@@ -1,0 +1,21 @@
+basic fundamental of computer
+starting programme
+1)hardware
+2)software
+3)network
+
+course medium : 3-4 months
+
+1) Integrate development environment (IDE) installation/use/extension vscode/sublime/notepad
+2) GitHub.com GUI/CMD
+3) HTML full 
+4) CSS basic	
+5) JS basic
+
+Advances : 4-5 month
+
+1) CSS advances
+2) JS advances
+3) Framework/library : React / Angular/ Express
+4) Java/Python-basic/JavaScript -(node/nextjs)
+5) MySQL/MongoDB
