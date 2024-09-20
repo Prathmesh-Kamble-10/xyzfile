@@ -28,10 +28,27 @@
 
 # extend()  method
 
-x = [1,2,4,5]
-z = [3,6,7,8]
-a = ("pk","mk")
-z.extend(a)
-x.extend(z)
-print(x)
-print(z)
+# x = [1,2,4,5]
+# z = [3,6,7,8]
+# a = ("pk","mk")
+# z.extend(a)
+# x.extend(z)
+# print(x)
+# print(z)
+
+# remove() method
+
+# fruits = ["apple","mango","banana",32,"shubham"]
+# fruits.remove("mango")
+# fruits.pop()
+# del fruits[1]
+# fruits.clear()
+# print(fruits)
+
+fruits = ["apple","mango","banana","shubham","xyz","plant"]
+# for f in fruits:
+#     print(f)
+
+for f in range(len(fruits)):
+    print(fruits[f])
+# fruits[3]
