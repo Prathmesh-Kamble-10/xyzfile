@@ -1,0 +1,5 @@
+number = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5,7,7,7)
+x = number.count(7)
+y = number.index(7)
+print(x)
+print(y)
